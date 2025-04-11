@@ -1,5 +1,4 @@
 // intro1.rs
-//
 // About this `I AM NOT DONE` thing:
 // We sometimes encourage you to keep trying things on a given exercise, even
 // after you already figured it out. If you got everything working and feel
@@ -12,7 +11,6 @@
 //
 // Execute `rustlings hint intro1` or use the `hint` watch subcommand for a
 // hint.
-
 
 fn main() {
     println!("Hello and");
